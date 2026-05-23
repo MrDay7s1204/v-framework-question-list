@@ -119,8 +119,8 @@
       "correctAnswer": 0,
       "type": "multiple_choice",
       "safeAnswer": 0
-    }
-   {
+    },
+    {
       "question": "«Чоловік цей богозневажні слова безперсталь говоритьна це святе місце та проти закону» - були сказані про ти кого?",
       "options": [
         "Христа",
@@ -181,5 +181,5 @@
       "safeAnswer": 0
     }
   ],
-  "fingerprint": "V Framework Generated Set made by vlad 010203"
+  "fingerprint": "V Framework Generated Set"
 }
