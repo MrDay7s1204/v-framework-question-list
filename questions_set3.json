@@ -121,3 +121,66 @@
       "safeAnswer": 0
     }
   ],
+   {
+      "question": "«Чоловік цей богозневажні слова безперсталь говоритьна це святе місце та проти закону» - були сказані про ти кого?",
+      "options": [
+        "Христа",
+        "Павла",
+        "Степана",
+        "Петра"
+      ],
+      "correctAnswer": 2,
+      "type": "multiple_choice",
+      "safeAnswer": 3
+    },
+    {
+      "question": "промова Степана в Синедріоніпочалась з …",
+      "options": [
+        "Адама",
+        "Авраама",
+        "Якова",
+        "Мойсея"
+      ],
+      "correctAnswer": 1,
+      "type": "multiple_choice",
+      "safeAnswer": 3
+    },
+    {
+      "question": "перша зупинка Авраама після божого поклику?",
+      "options": [
+        "Ханаан",
+        "Харан",
+        "Месопотамія",
+        "Халдея"
+      ],
+      "correctAnswer": 1,
+      "type": "multiple_choice",
+      "safeAnswer": 3
+    },
+    {
+      "question": "Пророцтво про народ Ізраїлю в Єгипті як приходько по словам проповіді Степаном було на скільки років",
+      "options": [
+        "430",
+        "400",
+        "4 покорління",
+        "230"
+      ],
+      "correctAnswer": 1,
+      "type": "multiple_choice",
+      "safeAnswer": 0
+    },
+    {
+      "question": "В якому віці було зроблено обрізання Ісаакові?",
+      "options": [
+        "12 років",
+        "7 років",
+        "8 день",
+        "невідомо"
+      ],
+      "correctAnswer": 2,
+      "type": "multiple_choice",
+      "safeAnswer": 0
+    }
+  ],
+  "fingerprint": "V Framework Generated Set"
+}
